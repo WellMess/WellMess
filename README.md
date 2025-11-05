@@ -1,6 +1,10 @@
-# 👩🏻‍💻 Wellington Messias
+# 👩🏻‍💻 💫 Hi 👋, I'm Wellington Messias
 
 **`Desenvolvedor FullStack`**
+
+**A passionate Cloud Engineer || DevOps Engineer ||**
+
+Email Me 👉 ✉️ **w3llmess@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 Me chamo Wellington Messias Dias Pereira, tenho 21 anos e sou natural do Pará. Concluí o ensino médio no EEMMJAS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[W3llMess](https://www.youtube.com/@W3llMess)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[W3llMess](https://www.instagram.com/w3llmess)".
 
@@ -155,17 +159,14 @@ Me chamo Wellington Messias Dias Pereira, tenho 21 anos e sou natural do Pará. 
 <br/>
 <br/>
 
-# 💫 Hi 👋, I'm Wellington Messias
-**A passionate Cloud Engineer || DevOps Engineer ||**
-
-Email Me 👉 ✉️ **w3llmess@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
 ## 🔗 I am a Content Creator. 😊😊
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
 [![WellMess YouTube Channel](https://img.shields.io/badge/YouTube-W3llMess%20-red?logo=youtube&logoColor=white)](https://www.youtube.com/@W3llMess) [![WellMess Instagram](https://img.shields.io/badge/Instagram-W3llMess%20-pink?logo=instagram&logoColor=white)](https://www.instagram.com/w3llmess) [![WellMess Facebook](https://img.shields.io/badge/Facebook-WellMess%20-blue?logo=facebook&logoColor=white)](https://www.facebook.com/wellmess) [![WellMess Twitter](https://img.shields.io/badge/Twitter-WellMess%20-lightblue?logo=twitter&logoColor=white)](https://twitter.com/WellMess) [![WellMess LinkedIn](https://img.shields.io/badge/LinkedIn-WellMess%20-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellmess)
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/w3llmess) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wellmess) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wellmess) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@W3llMess) 
 
 ## 💸 Support My Work 🤝	
 
@@ -208,9 +209,6 @@ If you’ve found my content helpful — tutorials, code, or videos — and want
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/w3llmess) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wellmess) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wellmess) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@W3llMess) 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
