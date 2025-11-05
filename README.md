@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Wellington Messias
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Wellington Messias Dias Pereira, tenho 21 anos e sou natural do Pará. Concluí o ensino médio no EEMMJAS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[W3llMess]([(https://www.youtube.com/@W3llMess))", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[W3llMess]((https://www.instagram.com/w3llmess))".
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
@@ -155,10 +155,10 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
 <br/>
 <br/>
 
-# 💫 Hi 👋, I'm Imran Alam
+# 💫 Hi 👋, I'm Wellington Messias
 **A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **w3llmess@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ## 🔗 I am a Content Creator. 😊😊
 
