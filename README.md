@@ -164,16 +164,16 @@ Email Me 👉 ✉️ **w3llmess@gmail.com** For Collaboration/Project or Anythin
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
-[![Techno Snag YouTube Channel](https://img.shields.io/badge/YouTube-Techno%20Snag-red?logo=youtube&logoColor=white)](https://www.youtube.com/@W3llMess) [![Techno Snag Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/w3llmess) [![Techno Snag Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/wellmess) [![Techno Snag Twitter](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://twitter.com/technosnag) [![Imran Alam LinkedIn](https://img.shields.io/badge/LinkedIn-Imran%20Alam-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellmess)
+[![WellMess YouTube Channel](https://img.shields.io/badge/YouTube-W3llMess%20-red?logo=youtube&logoColor=white)](https://www.youtube.com/@W3llMess) [![WellMess Instagram](https://img.shields.io/badge/Instagram-W3llMess%20-pink?logo=instagram&logoColor=white)](https://www.instagram.com/w3llmess) [![WellMess Facebook](https://img.shields.io/badge/Facebook-WellMess%20-blue?logo=facebook&logoColor=white)](https://www.facebook.com/wellmess) [![WellMess Twitter](https://img.shields.io/badge/Twitter-WellMess%20-lightblue?logo=twitter&logoColor=white)](https://twitter.com/WellMess) [![WellMess LinkedIn](https://img.shields.io/badge/LinkedIn-WellMess%20-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellmess)
 
 
 ## 💸 Support My Work 🤝	
 
 If you’ve found my content helpful — tutorials, code, or videos — and want to say **thanks**, here are a few ways to support 💖:
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/technosnag)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/WellMess)
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20on-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/WellMess/)
-[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/imranalam)
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/WellMess)
 [![Donate via UPI](https://img.shields.io/badge/Donate-UPI-4CAF50?style=for-the-badge&logo=googlepay&logoColor=white)](https://github.com/WellMess/Donations/blob/main/README.md)
 
 ## 🏆 GitHub Trophies
