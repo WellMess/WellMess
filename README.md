@@ -156,7 +156,7 @@ Me chamo Wellington Messias Dias Pereira, tenho 21 anos e sou natural do Pará. 
 <br/>
 
 # 💫 Hi 👋, I'm Wellington Messias
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**A passionate Cloud Engineer || DevOps Engineer ||**
 
 Email Me 👉 ✉️ **w3llmess@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -164,7 +164,7 @@ Email Me 👉 ✉️ **w3llmess@gmail.com** For Collaboration/Project or Anythin
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
-[![Techno Snag YouTube Channel](https://img.shields.io/badge/YouTube-Techno%20Snag-red?logo=youtube&logoColor=white)](https://www.youtube.com/technosnag) [![Techno Snag Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/technosnag) [![Techno Snag Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/technosnag) [![Techno Snag Twitter](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://twitter.com/technosnag) [![Imran Alam LinkedIn](https://img.shields.io/badge/LinkedIn-Imran%20Alam-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alamimran613)
+[![Techno Snag YouTube Channel](https://img.shields.io/badge/YouTube-Techno%20Snag-red?logo=youtube&logoColor=white)](https://www.youtube.com/@W3llMess) [![Techno Snag Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/w3llmess) [![Techno Snag Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/wellmess) [![Techno Snag Twitter](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://twitter.com/technosnag) [![Imran Alam LinkedIn](https://img.shields.io/badge/LinkedIn-Imran%20Alam-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellmess)
 
 
 ## 💸 Support My Work 🤝	
@@ -210,7 +210,7 @@ If you’ve found my content helpful — tutorials, code, or videos — and want
 </div>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ImranKhanYouTuber) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alamimran613) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ikyoutuber) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technosnag) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/w3llmess) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wellmess) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wellmess) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@W3llMess) 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -222,7 +222,6 @@ If you’ve found my content helpful — tutorials, code, or videos — and want
 
 ```javascript
 const thai = {
-  pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
