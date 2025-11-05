@@ -1,7 +1,36 @@
 # 👩🏻‍💻 💫 Hi 👋, I'm Wellington Messias
 
 **`Desenvolvedor FullStack`**
+<br>
+<br>
+<br>
 
+<div align="center">
+  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
+</div>
+
+<div align="center">
+  
+  <b>`プ ロ グ ラ マ`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Wellington Messias</b>
+  </samp>
+</div>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/WellMess_♡-black" />
+</div>
+      
+<br>
+<br>
+     
 **A passionate Cloud Engineer || DevOps Engineer ||**
 
 Email Me 👉 ✉️ **w3llmess@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -191,11 +220,11 @@ If you’ve found my content helpful — tutorials, code, or videos — and want
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WellMess&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WellMess&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WellMess&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WellMess&theme=radical&utcOffset=8">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WellMess&theme=radical&utcOffset=-3">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=WellMess&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=WellMess&theme=radical">
 
-</div>
+</div align="center">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WellMess&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=WellMess&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
