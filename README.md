@@ -242,6 +242,7 @@ If you’ve found my content helpful — tutorials, code, or videos — and want
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=WellMess&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
