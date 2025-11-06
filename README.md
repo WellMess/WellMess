@@ -1,12 +1,15 @@
 # 👩🏻‍💻 💫 Hi 👋, I'm Wellington Messias
+<div align="center">
+  
+**`|| Desenvolvedor FullStack || A passionate Cloud Engineer || DevOps Engineer ||`**
+<br>
+<br>
+<br>
 
-**`Desenvolvedor FullStack`**
-<br>
-<br>
-<br>
+</div>
 
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
+  <img align="center" height="150" src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" />
 </div>
 
 <div align="center">
@@ -30,14 +33,16 @@
       
 <br>
 <br>
-     
-**A passionate Cloud Engineer || DevOps Engineer ||**
 
+<div align="center">
+  
 Email Me 👉 ✉️ **w3llmess@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 Me chamo Wellington Messias Dias Pereira, tenho 21 anos e sou natural do Pará. Concluí o ensino médio no EEMMJAS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[W3llMess](https://www.youtube.com/@W3llMess)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[W3llMess](https://www.instagram.com/w3llmess)".
 
-<p align="left">
+</div>
+
+<p align="center">
     <a href="[https://www.youtube.com/@W3llMess?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
@@ -69,7 +74,7 @@ Me chamo Wellington Messias Dias Pereira, tenho 21 anos e sou natural do Pará. 
 </p>
 
 ---
-
+  
 ### 🤖 Linguagens e Tecnologias
 
 <img 
