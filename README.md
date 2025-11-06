@@ -226,11 +226,9 @@ If you’ve found my content helpful — tutorials, code, or videos — and want
 
 <div align="center">
 
-<img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellMess&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=WellMess&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=WellMess&theme=dark&hide_border=false" alt="GitHub Streak"/>
-
-</div>
+  <a href="https://github.com/WellMess">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellMess&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  </a>
 
 </div><br>
 <!-- Snake Game Repo View -->
