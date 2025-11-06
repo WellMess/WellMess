@@ -237,9 +237,14 @@ If you’ve found my content helpful — tutorials, code, or videos — and want
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WellMess&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WellMess&theme=radical&utcOffset=-3">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=WellMess&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=WellMess&theme=radical">
+
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellMess&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 <img height="160em" src="https://github-contributor-stats.vercel.app/api?username=WellMess&limit=5&theme=radical&combine_all_yearly_contributions=true)">
+
+[![Naereen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naereen&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
 </div><br>
 <!-- Snake Game Repo View -->
