@@ -1,4 +1,51 @@
 # 👩🏻‍💻 💫 Hi 👋, I'm Wellington Messias
+
+<div align="center">
+<br/>
+<img src="https://raw.githubusercontent.com/KelviNosse/KelviNosse/master/assets/terminal.gif" alt="Here is a little bit about me!">
+
+<br />
+
+> **GIF loading a little slow? You can drink a cup of ☕ first**.
+
+<br/>
+<br/>
+
+
+<div align="center">
+	<img src="welcome-header.gif" alt="welcome to my github profile">
+	<br>
+	<br>
+</div>
+
+**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and unicorns**&nbsp;&nbsp;![](unicorn.gif)
+
+<img src="party-furby.gif" align="right" width="60">
+
+<br>
+
+![](under-construction.gif)
+
+<br>
+
+
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+<img src="images/svg/header_en.svg"></img>
+
+<table align="right">
+ <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
+ <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
+</table>
+
+
+
+</pre>
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br><br>
+
 <div align="center">
   
 **`|| Desenvolvedor FullStack || A passionate Cloud Engineer || DevOps Engineer ||`**
@@ -246,6 +293,38 @@ If you’ve found my content helpful — tutorials, code, or videos — and want
 [![Naereen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naereen&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
+
+<!-- Nothing weird to see here -->
+<p align="center">
+  <a href="https://readme.andyruwruw.com/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg">
+    <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/now-playing"> -->
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/top-played.svg">
+  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/top-played"> -->
+</p>
+ 
+<p align="center">
+  <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
+  <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a></i>
+</p>
+
+<p></p>
+
+
 </div><br>
 <!-- Snake Game Repo View -->
 
@@ -278,3 +357,32 @@ const thai = {
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
+
+<div>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+</div>
